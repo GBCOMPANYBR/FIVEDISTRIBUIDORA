@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://distribuidorafive.com.br/sitemap.xml
